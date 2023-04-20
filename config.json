@@ -1,0 +1,13 @@
+{
+  "source": ["tokens/**/*.json"],
+  "platforms": {
+    "js": {
+      "transforms": ["attribute/cti", "content/icon", "size/rem", "color/hex"],
+      "buildPath": "tokens/",
+      "files": [{
+        "destination": "tokens.js",
+        "format": "javascript/module"
+      }]
+    }
+  }
+}
