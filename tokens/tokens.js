@@ -1,35 +1,19 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Apr 2023 13:39:09 GMT
+ * Generated on Fri, 28 Apr 2023 04:44:01 GMT
  */
 
 module.exports = {
   "color": {
     "dark": {
       "secondary": {
-        "description": "",
+        "value": "#e6b432",
         "type": "color",
-        "value": "#6032e5",
-        "blendMode": "normal",
-        "extensions": {
-          "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:d421c4db836275faa0db3fed7a05980db24d1eb7,",
-            "exportKey": "color"
-          }
-        },
         "filePath": "tokens/color/base.json",
         "isSource": true,
         "original": {
-          "description": "",
-          "type": "color",
-          "value": "#6032e5ff",
-          "blendMode": "normal",
-          "extensions": {
-            "org.lukasoppermann.figmaDesignTokens": {
-              "styleId": "S:d421c4db836275faa0db3fed7a05980db24d1eb7,",
-              "exportKey": "color"
-            }
-          }
+          "value": "#e6b432",
+          "type": "color"
         },
         "name": "secondary",
         "attributes": {
@@ -44,29 +28,13 @@ module.exports = {
         ]
       },
       "primary": {
-        "description": "",
+        "value": "#57ff00",
         "type": "color",
-        "value": "#ff0000",
-        "blendMode": "normal",
-        "extensions": {
-          "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:2692b8642077ba6893e533e1fb4e2cf1595bc838,",
-            "exportKey": "color"
-          }
-        },
         "filePath": "tokens/color/base.json",
         "isSource": true,
         "original": {
-          "description": "",
-          "type": "color",
-          "value": "#ff0000ff",
-          "blendMode": "normal",
-          "extensions": {
-            "org.lukasoppermann.figmaDesignTokens": {
-              "styleId": "S:2692b8642077ba6893e533e1fb4e2cf1595bc838,",
-              "exportKey": "color"
-            }
-          }
+          "value": "#57ff00",
+          "type": "color"
         },
         "name": "primary",
         "attributes": {
@@ -83,29 +51,13 @@ module.exports = {
     },
     "light": {
       "primary": {
-        "description": "",
+        "value": "#e03030",
         "type": "color",
-        "value": "#d9d9d9",
-        "blendMode": "normal",
-        "extensions": {
-          "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:0e829643ed01eea8c83e0311e58c91ca08d1036c,",
-            "exportKey": "color"
-          }
-        },
         "filePath": "tokens/color/base.json",
         "isSource": true,
         "original": {
-          "description": "",
-          "type": "color",
-          "value": "#d9d9d9ff",
-          "blendMode": "normal",
-          "extensions": {
-            "org.lukasoppermann.figmaDesignTokens": {
-              "styleId": "S:0e829643ed01eea8c83e0311e58c91ca08d1036c,",
-              "exportKey": "color"
-            }
-          }
+          "value": "#e03030",
+          "type": "color"
         },
         "name": "primary",
         "attributes": {
@@ -120,29 +72,13 @@ module.exports = {
         ]
       },
       "secondary": {
-        "description": "",
-        "type": "color",
         "value": "#abfffa",
-        "blendMode": "normal",
-        "extensions": {
-          "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:edef774e49f02789c272367c585d98d555ec9d87,",
-            "exportKey": "color"
-          }
-        },
+        "type": "color",
         "filePath": "tokens/color/base.json",
         "isSource": true,
         "original": {
-          "description": "",
-          "type": "color",
-          "value": "#abfffaff",
-          "blendMode": "normal",
-          "extensions": {
-            "org.lukasoppermann.figmaDesignTokens": {
-              "styleId": "S:edef774e49f02789c272367c585d98d555ec9d87,",
-              "exportKey": "color"
-            }
-          }
+          "value": "#abfffa",
+          "type": "color"
         },
         "name": "secondary",
         "attributes": {
